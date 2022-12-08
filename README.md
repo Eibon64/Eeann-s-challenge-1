@@ -4,7 +4,7 @@
 
 This project was intended as an introduction to refactoring code, primarily for accessability standards. The goal was to be able to read through already workable code and identify what could be improved upon. 
 
-https://eibon64.github.io/challenge-1/
+https://eibon64.github.io/Eeann-s-challenge-1/
 \Develop\assets\images\Activity-1.PNG
 ## Usage
 
