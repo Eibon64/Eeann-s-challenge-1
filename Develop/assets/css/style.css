@@ -1,13 +1,14 @@
+/* sets the default properpties for spacing */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/* sets the page background color */
 body {
     background-color: #d9dcd6;
 }
-
+/* sets back ground color, text color, and font style for the header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -49,7 +50,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* sets and styles the main eye-catch graphic */
 .hero {
     height: 800px;
     width: 100%;
@@ -74,7 +75,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* styles the aside elements */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -133,7 +134,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* styles the main articles */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -187,7 +188,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* styles the page footer */
 .footer {
     padding: 30px;
     clear: both;
@@ -195,6 +196,6 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+.footer h4 {
     font-size: 20px;
 }
